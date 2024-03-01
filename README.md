@@ -24,11 +24,11 @@ Further, schematics can be favorited to make them easier to find.
 ![Editable Timer](/screenshots/edit.png?raw=true "Editable Timer")
 
 
-## To do
-
-- Add user login system and track cooldowns per user
-  - add profile page(s)
-- Add a notifications
+## Possible Future Features
+- User login system
+  - track cooldowns per user
+  - add profile page
+- Notifications
   - when a cooldown timer is over
   - when nothing is on cooldown
 - Light mode and toggle between dark and light mode
