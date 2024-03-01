@@ -31,6 +31,7 @@ Further, schematics can be favorited to make them easier to find.
 - Add a notifications
   - when a cooldown timer is over
   - when nothing is on cooldown
+- Light mode and toggle between dark and light mode
 
 ## Frontend
 - <a href="https://react.dev/" target="_blank">React</a>
