@@ -1,0 +1,116 @@
+.pointer { cursor: pointer; }
+
+.heading {
+  display: inline-block;
+}
+
+.display-7 {
+  font-weight: 300;
+  line-height: 1.2;
+	font-size: 1.75rem;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.cards {
+  max-width: 225px;
+}
+
+.modal {
+  width: 100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.85);
+  z-index: 99;
+  position:   fixed;
+  display: block;
+}
+
+.modal-content {
+  background-color: #232425;
+  margin: 15% auto;
+  padding: 15px 20px 20px 20px;
+  border: 1px solid #888;
+  width: 250px;
+  min-width: 250px;
+  max-width: 250px;
+  z-index: 999;
+  max-width: 250px;
+}
+
+body {
+  background-color: #131416;
+}
+
+h6 {
+  color: white;
+  margin: 0 0 0 0 !important;
+}
+
+h5 {
+  color: white;
+  margin: 0 0 0 0 !important;
+}
+
+h4 {
+  color: white;
+  margin: 0 0 0 0 !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+.form-control:disabled, .form-control[readOnly], .form-control[readonly] {
+  background-color: #353639 !important;
+}
+
+
+.outerCard {
+  background-color: #232425;
+  border-radius: 10px;
+  border-color:#2E2F32;
+}
+
+.innerCard {
+  background-color: #232425;
+  color: white;
+  border-radius: 0px;
+}
+
+.darkSelect {
+  background-color: #353639;
+  color: white;
+  border: none;
+
+}
+
+.darkList {
+  background-color: #353639;
+  color: white;
+  border: none;
+
+}
+
+.darkInput {
+  background-color: #353639;
+  color: white;
+  border: none;
+
+}
+
+.darkInput:focus {
+  background-color: #353639;
+  color: white;
+  border: none;
+
+}
+
+.card-body {
+  padding: 10px !important;
+}
+
+.float-right {
+  float:right;
+}
