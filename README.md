@@ -24,7 +24,7 @@ Further, schematics can be favorited to make them easier to find.
 ![Editable Timer](/screenshots/edit.png?raw=true "Editable Timer")
 
 
-## Possible Future Features
+## Further Development
 - User login system
   - track cooldowns per user
   - add profile page
