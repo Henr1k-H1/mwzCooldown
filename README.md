@@ -1,12 +1,11 @@
 # mwzCooldown
 
-This react app keeps track of remaining time for cooldowns when crafting schematics in Modern Warfare Zombies (MWZ).
+This React app keeps track of remaining time for cooldowns when crafting schematics in Modern Warfare Zombies (MWZ).
 
-The goal of this app is to see how much time is remaining for specific cooldowns without having to open the game. 
-
+The goal of this app is to see how much time is remaining for specific cooldowns without having to open the game.
 All unlocking and crafting still has to happen in-game.
 
-Once a schematic has been unlocked in the game, it can be marked unlocked in mwzCooldowns. Unlocked schematics can be crafted and a timer will start based on the in-game time cooldown. If a schematic was crafted in-game and is sill on cooldown, it can be crafted in the app and then manually edited to reflect the correct cooldown time remaining.
+Once a schematic has been unlocked in the game, it can be marked unlocked in mwzCooldowns. Unlocked schematics can be crafted and a timer will start based on the in-game time cooldown. If a schematic was crafted in-game and is still on cooldown, it can be crafted in the app and then manually edited to reflect the correct cooldown time remaining.
 
 Further, schematics can be favorited to make them easier to find.
 
