@@ -13,15 +13,17 @@ Further, schematics can be favorited to make them easier to find.
 - <a href="https://mwz.henr1k.com/" target="_blank">Check out the demo</a>
 
 ## Screenshots
-
+### Active Cooldowns
 ![Active Cooldowns](/screenshots/active.png?raw=true "Active Cooldowns")
-<br />
-![Ready to Craft](/screenshots/ready2craft.png?raw=true "Ready to Craft")
-<br />
-![Locked Schematics](/screenshots/locked.png?raw=true "Locked Schematics")
-<br />
-![Editable Timer](/screenshots/edit.png?raw=true "Editable Timer")
 
+### Ready to Craft
+![Ready to Craft](/screenshots/ready2craft.png?raw=true "Ready to Craft")
+
+### Locked Schematics
+![Locked Schematics](/screenshots/locked.png?raw=true "Locked Schematics")
+
+### Editable Timer
+![Editable Timer](/screenshots/edit.png?raw=true "Editable Timer")
 
 ## Further Development
 - User login system
