@@ -46,7 +46,7 @@ Further, schematics can be favorited to make them easier to find.
 - <a href="https://www.mongodb.com/atlas/database" target="_blank">MongoDB Atlas Database</a>
 
 ## Author
-- <a href="https://henr1k.com/" target="_blank">Henrik "Henr1k"</a>
+- <a href="https://henr1k.com/" target="_blank">Henr1k</a>
 
 ## License
 
